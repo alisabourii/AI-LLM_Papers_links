@@ -7,3 +7,5 @@ LLaMA-Omni: Seamless Speech Interaction with Large Language Models: https://pape
 SOAP: IMPROVING AND STABILIZING SHAMPOO USING ADAM: https://paperswithcode.com/paper/soap-improving-and-stabilizing-shampoo-using
 
 MemoRAG: https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via
+
+StoryMaker: https://paperswithcode.com/paper/storymaker-towards-holistic-consistent

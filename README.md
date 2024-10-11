@@ -9,3 +9,5 @@ SOAP: IMPROVING AND STABILIZING SHAMPOO USING ADAM: https://paperswithcode.com/p
 MemoRAG: https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via
 
 StoryMaker: https://paperswithcode.com/paper/storymaker-towards-holistic-consistent
+
+Depth Pro: Sharp Monocular Metric Depth in Less Than a Second: https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in

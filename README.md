@@ -13,3 +13,5 @@ StoryMaker : https://paperswithcode.com/paper/storymaker-towards-holistic-consis
 Depth Pro: Sharp Monocular Metric Depth in Less Than a Second : https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in
 
 OmniGen: Unified Image Generation -> https://paperswithcode.com/paper/omnigen-unified-image-generation
+
+Prompt-Engineering: https://www.promptingguide.ai

@@ -15,3 +15,5 @@ Depth Pro: Sharp Monocular Metric Depth in Less Than a Second : https://paperswi
 OmniGen: Unified Image Generation -> https://paperswithcode.com/paper/omnigen-unified-image-generation
 
 Prompt-Engineering: https://www.promptingguide.ai
+
+Watermark Anything with Localized Messages: https://paperswithcode.com/paper/watermark-anything-with-localized-messages

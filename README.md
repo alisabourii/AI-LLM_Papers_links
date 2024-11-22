@@ -17,3 +17,6 @@ OmniGen: Unified Image Generation -> https://paperswithcode.com/paper/omnigen-un
 Prompt-Engineering: https://www.promptingguide.ai
 
 Watermark Anything with Localized Messages: https://paperswithcode.com/paper/watermark-anything-with-localized-messages
+
+
+In-Context LoRA for Diffusion Transformers: https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers

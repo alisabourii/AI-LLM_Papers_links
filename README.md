@@ -20,3 +20,5 @@ Watermark Anything with Localized Messages: https://paperswithcode.com/paper/wat
 
 
 In-Context LoRA for Diffusion Transformers: https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers
+
+Unveiling Covert Harms and Social Threats in LLM Generated Conversations: https://arxiv.org/pdf/2405.05378v1
